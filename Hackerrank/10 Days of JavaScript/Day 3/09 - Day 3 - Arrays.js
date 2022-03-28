@@ -17,15 +17,18 @@
 
 function getSecondLargest(nums) {
     // Complete the function
-    nums.sort((a, b) => a < b); // This sorts inversely
-    var a = nums.shift();
-
-    while (a == nums[0]) {
-        a = nums.shift();
+    let max = -Infinity, result = -Infinity;
+    for (const value of nums) {
+        const nr = Number(value)
+        if (nr > max) {
+            [result, max] = [max, nr]
+        } 
+        else if (nr < max && nr > result) {
+            result = nr;
+        }
     }
-    a = nums.shift();
 
-    return a;
+  return result;
 }
 
 function main() {
