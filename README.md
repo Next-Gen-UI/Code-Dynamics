@@ -29,7 +29,7 @@
 Code database for Code Dynamics website
 
 ## 📚️ Folder Structure
-### Hackerrank <br>
+> Hackerrank <br>
 ┣ 30 Days of Code <br>
 ┃ ┣ C++ <br>
 ┃ ┣ Java <br>
@@ -44,6 +44,37 @@ Code database for Code Dynamics website
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ 01 - Basic Select <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ 02 - Advanced Select <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┗ 03 - Aggregation <br>
+
+> Love Babbar<br>
+┣ 01 Array<br>
+┣ 02 Matrix<br>
+┣ 03 String<br>
+┣ 04 Searching and Sorting<br>
+┣ 05 linked List<br>
+┣ 06 Binary Trees<br>
+┣ 07 Binary Search Trees<br>
+┣ 08 Greedy<br>
+┣ 09 Backtracking<br>
+┣ 10 Stack and Queues<br>
+┣ 11 Heap<br>
+┣ 12 Graph<br>
+┣ 13 Trie<br>
+┣ 14 DP<br>
+┗ 15 Bit-manipulation<br>
+
+>Striver<br>
+┣ 30 Days of SDE Sheet<br>
+┃ ┣ C++<br>
+┃ ┣ Java<br>
+┃ ┗ Python<br>
+┣ Algorithms for Coding Round Sheet<br>
+┃ ┣ C++<br>
+┃ ┣ Java<br>
+┃ ┗ Python<br>
+┗ Competitive Programming Sheet<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ C++<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ Java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┗ Python<br>
 
 ## 🌱 Contribute Steps
 - Fork This repo
