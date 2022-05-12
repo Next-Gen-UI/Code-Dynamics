@@ -26,21 +26,31 @@
 </div>
 
 ## ⚡️  Introduction
-Code database for Code Dynamics website
+Code Database for <a href='https://codedynamics.in'>Code Dynamics</a> website. Instead of looking for the resources of different skills platforms at different places, switch to a better way and find it all at one place, visit <a href='https://codedynamics.in'>codedynamics.in</a>
 
 ## 📚️ Folder Structure
-> Hackerrank <br>
-┣ 30 Days of Code <br>
-┃ ┣ C++ <br>
-┃ ┣ Java <br>
-┃ ┣ Kotlin <br>
-┃ ┣ Php <br>
-┃ ┗ Python <br>
-┣ Python <br>
-┃ ┣ 01 - Introduction <br>
-┃ ┣ 02 - Basic Data Types <br>
-┃ ┗ 04 - Sets <br>
-┗ SQL <br>
+> Hackerrank<br>
+┣ 30 Days of Code<br>
+┃ ┣ C++<br>
+┃ ┣ Java<br>
+┃ ┣ Julia<br>
+┃ ┣ Kotlin<br>
+┃ ┣ Php<br>
+┃ ┣ Python<br>
+┃ ┣ Scala<br>
+┃ ┗ TypeScript<br>
+┣ 10 Days of JavaScript<br>
+┣ 10 Days of Statistics<br>
+┣ Python<br>
+┃ ┣ 01 - Introduction<br>
+┃ ┣ 02 - Basic Data Types<br>
+┃ ┣ 03 - Strings<br>
+┃ ┣ 04 - Sets<br>
+┃ ┣ 05 - Math<br>
+┃ ┣ 06 - Itertools<br>
+┃ ┣ 07 - Collections<br>
+┃ ┗ 08 - Date and Time<br>
+┗ SQL<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ 01 - Basic Select <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┣ 02 - Advanced Select <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ┗ 03 - Aggregation <br>
@@ -78,13 +88,13 @@ Code database for Code Dynamics website
 
 ## 🌱 Contribute Steps
 - Fork This repo
-- Copy repo url which is created after forked 
+- Copy repo url which is created after forked & clone the repo in your local system.
 
 ```bash
-$git <repo url>
+$git clone <repo url>
 ```
 
-- Add Your Codes
+- Add Your Codes & then push it back to your own repo
 
 ```bash
 $git add .
